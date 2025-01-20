@@ -1,7 +1,6 @@
 from tkinter import *
 
 window = Tk()
-#window.geometry("400x400")
 window.title("Simple Calculator")
 
 def button_click(number):
